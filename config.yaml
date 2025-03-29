@@ -11,4 +11,4 @@ paths:
 file_settings:
   allowed_video_types: [".mp4", ".mov"]
   allowed_audio_types: [".wav", ".mp3"]
-  max_file_size: 1024  # MB
+  max_file_size: 1024 # MB
