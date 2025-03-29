@@ -1,0 +1,12 @@
+{
+    "video_paths": [
+      "inputs/video1.mp4"
+    ],
+    "audio_paths": [
+      "inputs/audio1.wav"
+    ],
+    "trans_low_config": {
+      "height": 360
+    },
+    "output_dir": "./outputs"
+  }
