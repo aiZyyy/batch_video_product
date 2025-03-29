@@ -1,0 +1,8 @@
+[
+  {
+    "status": "failed",
+    "input_video": "inputs/video1.mp4",
+    "input_audio": "inputs/audio1.wav",
+    "error": "string indices must be integers, not 'str'"
+  }
+]
